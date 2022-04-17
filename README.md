@@ -1,6 +1,8 @@
 # Low-Complexity-Sum-Capacity-Maximization-for-Intelligent-Reflecting-Surface-Aided-MIMO-Systems
 
 This is code for the paper accepted in WCL (Wireless Communications Letters) in 2022, written in MATLAB.
+Link for the published paper : https://ieeexplore.ieee.org/document/9758059
+Link for the preprint : https://arxiv.org/abs/2204.04915
 
 The code contains five files.
 (1) DsmMimo.m is the core file containing all functions related to our work.

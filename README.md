@@ -9,9 +9,7 @@ The code contains five files.
 (4) plot_iterNum_vs_N.m is the file to plot Figure 3.
 (5) plot_time_vs_N.m is the file to plot Figure 4.
 
-We can run files (3), (4), and (5). Files (1) and (2) contain functions only (encapsulated in a class), so we can't run them. Although we use MATLAB class, we don't use the concept of object-oriented programming - we merely use a static class to gather several functions into a single file (rather than type each function on a separate file).
+We can run files (3), (4), and (5). Files (1) and (2) contain functions only (encapsulated in a class), so we can't run them. Although we use MATLAB class, we don't use the concept of object-oriented programming - we merely use a static class to bundle several functions into a single file (rather than type each function on a separate file).
 
 Should you have a problem, feel free to contact me:
 sirojuddin.p@gmail.com
-
-NOTE: Temporarily, we upload only DsmMimo.m - the rest files will be uploaded once our paper is officially published (a.k.a. early access) on the IEEE Xplore website.
